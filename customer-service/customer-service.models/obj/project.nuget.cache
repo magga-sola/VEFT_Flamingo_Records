@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "iZ29rbakhx9vWLNosjv6P5qeIt3GdrFUflsR17aDir4rUgzJE3RWsZlo6lLxMeH0fxNkzCZvblfwqNm1kL3RoA==",
+  "success": true,
+  "projectFilePath": "c:\\Users\\evukl\\OneDrive\\Skjáborð\\Vefþjónustur\\Flamingo_Records\\customer-service\\customer-service.models\\customer-service.models.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\evukl\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\evukl\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\evukl\\.nuget\\packages\\newtonsoft.json\\12.0.2\\newtonsoft.json.12.0.2.nupkg.sha512",
+    "C:\\Users\\evukl\\.nuget\\packages\\system.componentmodel.annotations\\4.6.0\\system.componentmodel.annotations.4.6.0.nupkg.sha512"
+  ],
+  "logs": []
+}
