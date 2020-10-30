@@ -1,4 +1,4 @@
-// Network
+// create the flamingo network
 docker network create flamingo-network
 
 // API Gateway
@@ -8,7 +8,6 @@ docker run --network flamingo-network --name api-gateway -p 7000:5000 dotnet/ima
 
 
 // Customer service
-// service3
 docker build -t dotnet/image .
 docker run --network flamingo-network --name customer-service dotnet/image
 
@@ -18,7 +17,6 @@ docker run --name customer-db -e POSTGRES_PASSWORD=Abc.12345 -e POSTGRES_DB=cust
 
 
 // Order service
-// service
 docker build -t mongo/image .
 docker run --network flamingo-network --name order-service mongo/image
 

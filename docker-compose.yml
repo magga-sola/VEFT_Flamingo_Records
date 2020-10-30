@@ -50,8 +50,6 @@ services:
         image: mongo
         build: ./order-service
         container_name: order-service
-        environment:
-            # mongo shit
         networks: 
             - "flamingo-network"
         
