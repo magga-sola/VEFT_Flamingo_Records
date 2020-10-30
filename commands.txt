@@ -1,45 +1,45 @@
 // create the flamingo network
 docker network create flamingo-network
 
-// API Gateway
+// prepare, build and run api gateway
 docker pull mcr.microsoft.com/dotnet/core/sdk:3.1
 docker tag mcr.microsoft.com/dotnet/core/sdk:3.1 dotnet/image
 docker run --network flamingo-network --name api-gateway -p 7000:5000 dotnet/image
 
 
-// Customer service
+// prepare, build and run customer service
 docker build -t dotnet/image .
 docker run --network flamingo-network --name customer-service dotnet/image
 
-// Customer database
+// prepare, build and run customer database
 docker pull postgres  
 docker run --name customer-db -e POSTGRES_PASSWORD=Abc.12345 -e POSTGRES_DB=customer_db -v "/Users/adalsteinnleifsson/Downloads/FlamingoRecords/customer-db/db-scripts ":/docker-entrypoint-initdb.d postgres
 
 
-// Order service
+// prepare, build and run order service
 docker build -t mongo/image .
 docker run --network flamingo-network --name order-service mongo/image
 
-// Order database
+// prepare, build and run order database
 docker pull mongo
 docker build -t mongo . 
 docker run --network flamingo-network --name order-db mongo
 
 
-// Log service
+// prepare, build and run log service
 docker pull python
 docker run --network flamingo-network --name log-service python
 
 
-// Email service
+// prepare, build and run email service
 docker pull python
 docker run --network flamingo-network --name email-service python
 
 
-// RabbitMQ
+// prepare, build and run message broker (rabbitMQ)
 docker pull rabbitmq
 docker run --network flamingo-network --name message-broker rabbitmq
 
-// Docker compose
+// Docker compose - doesn't really work but we tried our best <3
 docker-compose up
 docker-compose down

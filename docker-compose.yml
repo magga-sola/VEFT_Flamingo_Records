@@ -50,11 +50,6 @@ services:
         networks: 
             - "flamingo-network"
 
-#    order-service-db:
-#        image: mongo
-#        container_name: order-db
-#        networks:
-#            - "flamingo-network"
 
     message-broker:
         image: rabbitmq
