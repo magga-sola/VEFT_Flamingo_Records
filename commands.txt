@@ -1,0 +1,22 @@
+docker network create flamingo-network 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+docker-compose up
+docker-compose down
