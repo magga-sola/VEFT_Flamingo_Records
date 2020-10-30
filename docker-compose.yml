@@ -7,7 +7,7 @@ services:
             - "7000:5000"
         networks:
             - "flamingo-network"
-    
+
     customer-db:
         image: postgres
         container_name: customer-db
@@ -20,8 +20,6 @@ services:
         volumes:
             - ./customer-db/db-scripts:/docker-entrypoint-initdb.d
 
-
-
     costumer-service:
         build: 
             context: ./customer-service
@@ -31,8 +29,7 @@ services:
 
         container_name: customer-service
         networks:
-            - "flamingo-network"
-        
+            - "flamingo-network" 
 
     email-service:
         build: ./email-service
@@ -45,29 +42,29 @@ services:
         container_name: log-service
         networks:
             - "flamingo-network"
-    
+
     order-service:
         image: mongo
         build: ./order-service
         container_name: order-service
-        environment:
+#        environment:
             # mongo shit
         networks: 
             - "flamingo-network"
-        
-                
-    order-service-db:
-        image: mongo
-        container_name: order-db
-        networks:
-            - "flamingo-network"
-    
+
+#    order-service-db:
+#        image: mongo
+#        container_name: order-db
+#        networks:
+#            - "flamingo-network"
+
     message-broker:
         image: rabbitmq
         build: ./order-service
         container_name: message-broker
         networks:
             - "flamingo-network"
+
 networks:
     flamingo-network:
         driver: bridge
