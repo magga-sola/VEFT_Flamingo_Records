@@ -14,7 +14,7 @@ services:
         networks: 
             - "flamingo-network"
 
-    costumer-sercvice:
+    costumer-service:
         build: 
         container_name: customer-service
         networks:
@@ -37,6 +37,12 @@ services:
         build: ./order-service
         container_name: order-service
         networks: 
+            - "flamingo-network"
+    
+    order-service-db:
+        image: mongo
+        container_name: order-db
+        networks:
             - "flamingo-network"
     
     message-broker:
