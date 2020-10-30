@@ -16,6 +16,11 @@ services:
 
     costumer-service:
         build: 
+            context: ./customer-service
+            args:
+                POSTGRES_PASSWORD: Abc.12345
+                POSTGRES_DB: customer_db
+
         container_name: customer-service
         networks:
             - "flamingo-network"
@@ -36,8 +41,14 @@ services:
         image: mongo
         build: ./order-service
         container_name: order-service
+        environment:
+            POSTGRES_PASSWORD: Abc.12345
+            POSTGRES_DB: customer_db
+            NODE_ENV: development
         networks: 
             - "flamingo-network"
+        volumes:
+            - ./customer-db/db-scripts:/docker-entrypoint-initdb.d
     
     order-service-db:
         image: mongo
@@ -69,8 +80,7 @@ services:
     #     container_name: pokemon-db
     #     networks:
     #         - "pokemon-network"
-
-    networks:
+networks:
     flamingo-network:
         driver: bridge
 

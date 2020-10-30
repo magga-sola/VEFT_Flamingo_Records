@@ -1,6 +1,6 @@
 FROM node:latest
 LABEL maintainer="evan19, margreta19"
- 
+
 WORKDIR /app
 COPY . /app
 COPY package*.json ./
