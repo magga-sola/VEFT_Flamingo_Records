@@ -1,0 +1,12 @@
+/Users/adalsteinnleifsson/Downloads/FlamingoRecords/customer-service/customer-service.data/bin/Debug/netstandard2.0/customer-service.data.deps.json
+/Users/adalsteinnleifsson/Downloads/FlamingoRecords/customer-service/customer-service.data/bin/Debug/netstandard2.0/customer-service.data.dll
+/Users/adalsteinnleifsson/Downloads/FlamingoRecords/customer-service/customer-service.data/bin/Debug/netstandard2.0/customer-service.data.pdb
+/Users/adalsteinnleifsson/Downloads/FlamingoRecords/customer-service/customer-service.data/bin/Debug/netstandard2.0/customer-service.models.dll
+/Users/adalsteinnleifsson/Downloads/FlamingoRecords/customer-service/customer-service.data/bin/Debug/netstandard2.0/customer-service.models.pdb
+/Users/adalsteinnleifsson/Downloads/FlamingoRecords/customer-service/customer-service.data/obj/Debug/netstandard2.0/customer-service.data.csprojAssemblyReference.cache
+/Users/adalsteinnleifsson/Downloads/FlamingoRecords/customer-service/customer-service.data/obj/Debug/netstandard2.0/customer-service.data.AssemblyInfoInputs.cache
+/Users/adalsteinnleifsson/Downloads/FlamingoRecords/customer-service/customer-service.data/obj/Debug/netstandard2.0/customer-service.data.AssemblyInfo.cs
+/Users/adalsteinnleifsson/Downloads/FlamingoRecords/customer-service/customer-service.data/obj/Debug/netstandard2.0/customer-service.data.csproj.CoreCompileInputs.cache
+/Users/adalsteinnleifsson/Downloads/FlamingoRecords/customer-service/customer-service.data/obj/Debug/netstandard2.0/customer-service.data.csproj.CopyComplete
+/Users/adalsteinnleifsson/Downloads/FlamingoRecords/customer-service/customer-service.data/obj/Debug/netstandard2.0/customer-service.data.dll
+/Users/adalsteinnleifsson/Downloads/FlamingoRecords/customer-service/customer-service.data/obj/Debug/netstandard2.0/customer-service.data.pdb

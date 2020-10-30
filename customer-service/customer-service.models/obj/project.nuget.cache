@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "Luu2MjXxmO+FQtVuOzZFQ6767Y/Ov8pYnWaaXi++YzG/Bf0tGE9acuUzGZ2VIubTg8NoJV9b9InFgl9pVXtd2A==",
+  "success": true,
+  "projectFilePath": "/Users/adalsteinnleifsson/Downloads/FlamingoRecords/customer-service/customer-service.models/customer-service.models.csproj",
+  "expectedPackageFiles": [
+    "/usr/local/share/dotnet/sdk/NuGetFallbackFolder/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/usr/local/share/dotnet/sdk/NuGetFallbackFolder/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512",
+    "/Users/adalsteinnleifsson/.nuget/packages/newtonsoft.json/12.0.2/newtonsoft.json.12.0.2.nupkg.sha512",
+    "/Users/adalsteinnleifsson/.nuget/packages/system.componentmodel.annotations/4.6.0/system.componentmodel.annotations.4.6.0.nupkg.sha512"
+  ],
+  "logs": []
+}

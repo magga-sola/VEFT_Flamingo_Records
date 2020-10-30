@@ -1,0 +1,14 @@
+/Users/adalsteinnleifsson/Downloads/FlamingoRecords/customer-service/customer-service.services/bin/Debug/netstandard2.0/customer-service.services.deps.json
+/Users/adalsteinnleifsson/Downloads/FlamingoRecords/customer-service/customer-service.services/bin/Debug/netstandard2.0/customer-service.services.dll
+/Users/adalsteinnleifsson/Downloads/FlamingoRecords/customer-service/customer-service.services/bin/Debug/netstandard2.0/customer-service.services.pdb
+/Users/adalsteinnleifsson/Downloads/FlamingoRecords/customer-service/customer-service.services/bin/Debug/netstandard2.0/customer-service.data.dll
+/Users/adalsteinnleifsson/Downloads/FlamingoRecords/customer-service/customer-service.services/bin/Debug/netstandard2.0/customer-service.models.dll
+/Users/adalsteinnleifsson/Downloads/FlamingoRecords/customer-service/customer-service.services/bin/Debug/netstandard2.0/customer-service.data.pdb
+/Users/adalsteinnleifsson/Downloads/FlamingoRecords/customer-service/customer-service.services/bin/Debug/netstandard2.0/customer-service.models.pdb
+/Users/adalsteinnleifsson/Downloads/FlamingoRecords/customer-service/customer-service.services/obj/Debug/netstandard2.0/customer-service.services.csprojAssemblyReference.cache
+/Users/adalsteinnleifsson/Downloads/FlamingoRecords/customer-service/customer-service.services/obj/Debug/netstandard2.0/customer-service.services.AssemblyInfoInputs.cache
+/Users/adalsteinnleifsson/Downloads/FlamingoRecords/customer-service/customer-service.services/obj/Debug/netstandard2.0/customer-service.services.AssemblyInfo.cs
+/Users/adalsteinnleifsson/Downloads/FlamingoRecords/customer-service/customer-service.services/obj/Debug/netstandard2.0/customer-service.services.csproj.CoreCompileInputs.cache
+/Users/adalsteinnleifsson/Downloads/FlamingoRecords/customer-service/customer-service.services/obj/Debug/netstandard2.0/customer-service.services.csproj.CopyComplete
+/Users/adalsteinnleifsson/Downloads/FlamingoRecords/customer-service/customer-service.services/obj/Debug/netstandard2.0/customer-service.services.dll
+/Users/adalsteinnleifsson/Downloads/FlamingoRecords/customer-service/customer-service.services/obj/Debug/netstandard2.0/customer-service.services.pdb
