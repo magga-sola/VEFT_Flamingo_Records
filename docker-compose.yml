@@ -14,7 +14,7 @@ services:
         networks: 
             - "flamingo-network"
 
-    costumer-sercvice:
+    costumer-service:
         build: 
             context: ./customer-service
             args:
@@ -49,6 +49,12 @@ services:
             - "flamingo-network"
         volumes:
             - ./customer-db/db-scripts:/docker-entrypoint-initdb.d
+    
+    order-service-db:
+        image: mongo
+        container_name: order-db
+        networks:
+            - "flamingo-network"
     
     message-broker:
         image: rabbitmq

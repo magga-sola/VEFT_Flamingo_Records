@@ -1,10 +1,20 @@
 FROM node:latest
 LABEL maintainer="evan19, margreta19"
 
-
-COPY . /app
 WORKDIR /app
+COPY . /app
+COPY package*.json ./
 
 RUN npm install
 
-ENTRYPOINT [ "npm", "run", "build" ]
+ENV NODE_ENV production
+ENV PORT=80
+
+FROM rabbitmq
+
+ENV HOSTNAME message-broker
+ENV RABBITMQ_USER user
+ENV RABBITMQ_PASSWORD pass
+ENV RABBITMQ_VHOST / 
+
+ENTRYPOINT ["npm", "start"]
