@@ -1,0 +1,71 @@
+version: '3'
+services:
+    api-gateway:
+        build:
+        container_name: 
+        ports:
+        networks:
+            - "flamingo-network"
+    
+    customer-db:
+        image: postgres
+        container_name: 
+        networks: 
+            - "flamingo-network"
+
+    costumer-sercvice:
+        build:
+        container_name: 
+        networks:
+            - "flamingo-network"
+
+    email-service:
+        build:
+        container_name: 
+        networks:
+            - "flamingo-network"
+    
+    log-service:
+        build:
+        container_name:
+        networks:
+            - "flamingo-network"
+    
+    order-service:
+        image: mongo
+        build:
+        container_name: 
+        networks: 
+            - "flamingo-network"
+    
+    message-broker:
+        image: rabbitmq
+        build:
+        container_name: 
+        networks:
+            - "flamingo-network"
+    
+    # pokemon-api:
+    #     build: ./pokemon-api
+    #     container_name: pokemon-api
+    #     ports:
+    #         - "80:3000"
+    #     networks:
+    #         - "pokemon-network"
+    # pokemon-image-api:
+    #     build: ./pokemon-image-api
+    #     container_name: pokemon-image-api
+    #     networks:
+    #         - "pokemon-network"
+    # pokemon-db:
+    #     image: mongo
+    #     container_name: pokemon-db
+    #     networks:
+    #         - "pokemon-network"
+
+    networks:
+    flamingo-network:
+        driver: bridge
+
+    # pokemon-network:
+    #     driver: bridge
