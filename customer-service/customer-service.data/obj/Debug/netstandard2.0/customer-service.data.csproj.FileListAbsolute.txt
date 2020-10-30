@@ -10,3 +10,15 @@
 /Users/adalsteinnleifsson/Downloads/FlamingoRecords/customer-service/customer-service.data/obj/Debug/netstandard2.0/customer-service.data.csproj.CopyComplete
 /Users/adalsteinnleifsson/Downloads/FlamingoRecords/customer-service/customer-service.data/obj/Debug/netstandard2.0/customer-service.data.dll
 /Users/adalsteinnleifsson/Downloads/FlamingoRecords/customer-service/customer-service.data/obj/Debug/netstandard2.0/customer-service.data.pdb
+C:\Users\evukl\OneDrive\Skjáborð\Vefþjónustur\Flamingo_Records\customer-service\customer-service.data\bin\Debug\netstandard2.0\customer-service.data.deps.json
+C:\Users\evukl\OneDrive\Skjáborð\Vefþjónustur\Flamingo_Records\customer-service\customer-service.data\bin\Debug\netstandard2.0\customer-service.data.dll
+C:\Users\evukl\OneDrive\Skjáborð\Vefþjónustur\Flamingo_Records\customer-service\customer-service.data\bin\Debug\netstandard2.0\customer-service.data.pdb
+C:\Users\evukl\OneDrive\Skjáborð\Vefþjónustur\Flamingo_Records\customer-service\customer-service.data\bin\Debug\netstandard2.0\customer-service.models.dll
+C:\Users\evukl\OneDrive\Skjáborð\Vefþjónustur\Flamingo_Records\customer-service\customer-service.data\bin\Debug\netstandard2.0\customer-service.models.pdb
+C:\Users\evukl\OneDrive\Skjáborð\Vefþjónustur\Flamingo_Records\customer-service\customer-service.data\obj\Debug\netstandard2.0\customer-service.data.csprojAssemblyReference.cache
+C:\Users\evukl\OneDrive\Skjáborð\Vefþjónustur\Flamingo_Records\customer-service\customer-service.data\obj\Debug\netstandard2.0\customer-service.data.AssemblyInfoInputs.cache
+C:\Users\evukl\OneDrive\Skjáborð\Vefþjónustur\Flamingo_Records\customer-service\customer-service.data\obj\Debug\netstandard2.0\customer-service.data.AssemblyInfo.cs
+C:\Users\evukl\OneDrive\Skjáborð\Vefþjónustur\Flamingo_Records\customer-service\customer-service.data\obj\Debug\netstandard2.0\customer-service.data.csproj.CoreCompileInputs.cache
+C:\Users\evukl\OneDrive\Skjáborð\Vefþjónustur\Flamingo_Records\customer-service\customer-service.data\obj\Debug\netstandard2.0\customer-service.data.csproj.CopyComplete
+C:\Users\evukl\OneDrive\Skjáborð\Vefþjónustur\Flamingo_Records\customer-service\customer-service.data\obj\Debug\netstandard2.0\customer-service.data.dll
+C:\Users\evukl\OneDrive\Skjáborð\Vefþjónustur\Flamingo_Records\customer-service\customer-service.data\obj\Debug\netstandard2.0\customer-service.data.pdb

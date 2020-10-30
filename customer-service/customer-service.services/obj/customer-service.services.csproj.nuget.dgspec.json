@@ -1,23 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/Users/adalsteinnleifsson/Downloads/FlamingoRecords/customer-service/customer-service.services/customer-service.services.csproj": {}
+    "C:\\Users\\evukl\\OneDrive\\Skjáborð\\Vefþjónustur\\Flamingo_Records\\customer-service\\customer-service.services\\customer-service.services.csproj": {}
   },
   "projects": {
-    "/Users/adalsteinnleifsson/Downloads/FlamingoRecords/customer-service/customer-service.data/customer-service.data.csproj": {
+    "C:\\Users\\evukl\\OneDrive\\Skjáborð\\Vefþjónustur\\Flamingo_Records\\customer-service\\customer-service.data\\customer-service.data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/adalsteinnleifsson/Downloads/FlamingoRecords/customer-service/customer-service.data/customer-service.data.csproj",
+        "projectUniqueName": "C:\\Users\\evukl\\OneDrive\\Skjáborð\\Vefþjónustur\\Flamingo_Records\\customer-service\\customer-service.data\\customer-service.data.csproj",
         "projectName": "customer-service.data",
-        "projectPath": "/Users/adalsteinnleifsson/Downloads/FlamingoRecords/customer-service/customer-service.data/customer-service.data.csproj",
-        "packagesPath": "/Users/adalsteinnleifsson/.nuget/packages/",
-        "outputPath": "/Users/adalsteinnleifsson/Downloads/FlamingoRecords/customer-service/customer-service.data/obj/",
+        "projectPath": "C:\\Users\\evukl\\OneDrive\\Skjáborð\\Vefþjónustur\\Flamingo_Records\\customer-service\\customer-service.data\\customer-service.data.csproj",
+        "packagesPath": "C:\\Users\\evukl\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\evukl\\OneDrive\\Skjáborð\\Vefþjónustur\\Flamingo_Records\\customer-service\\customer-service.data\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "/Users/adalsteinnleifsson/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\evukl\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.0"
@@ -28,8 +25,8 @@
         "frameworks": {
           "netstandard2.0": {
             "projectReferences": {
-              "/Users/adalsteinnleifsson/Downloads/FlamingoRecords/customer-service/customer-service.models/customer-service.models.csproj": {
-                "projectPath": "/Users/adalsteinnleifsson/Downloads/FlamingoRecords/customer-service/customer-service.models/customer-service.models.csproj"
+              "C:\\Users\\evukl\\OneDrive\\Skjáborð\\Vefþjónustur\\Flamingo_Records\\customer-service\\customer-service.models\\customer-service.models.csproj": {
+                "projectPath": "C:\\Users\\evukl\\OneDrive\\Skjáborð\\Vefþjónustur\\Flamingo_Records\\customer-service\\customer-service.models\\customer-service.models.csproj"
               }
             }
           }
@@ -64,24 +61,21 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.402/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "/Users/adalsteinnleifsson/Downloads/FlamingoRecords/customer-service/customer-service.models/customer-service.models.csproj": {
+    "C:\\Users\\evukl\\OneDrive\\Skjáborð\\Vefþjónustur\\Flamingo_Records\\customer-service\\customer-service.models\\customer-service.models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/adalsteinnleifsson/Downloads/FlamingoRecords/customer-service/customer-service.models/customer-service.models.csproj",
+        "projectUniqueName": "C:\\Users\\evukl\\OneDrive\\Skjáborð\\Vefþjónustur\\Flamingo_Records\\customer-service\\customer-service.models\\customer-service.models.csproj",
         "projectName": "customer-service.models",
-        "projectPath": "/Users/adalsteinnleifsson/Downloads/FlamingoRecords/customer-service/customer-service.models/customer-service.models.csproj",
-        "packagesPath": "/Users/adalsteinnleifsson/.nuget/packages/",
-        "outputPath": "/Users/adalsteinnleifsson/Downloads/FlamingoRecords/customer-service/customer-service.models/obj/",
+        "projectPath": "C:\\Users\\evukl\\OneDrive\\Skjáborð\\Vefþjónustur\\Flamingo_Records\\customer-service\\customer-service.models\\customer-service.models.csproj",
+        "packagesPath": "C:\\Users\\evukl\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\evukl\\OneDrive\\Skjáborð\\Vefþjónustur\\Flamingo_Records\\customer-service\\customer-service.models\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "/Users/adalsteinnleifsson/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\evukl\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.0"
@@ -128,24 +122,21 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.402/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "/Users/adalsteinnleifsson/Downloads/FlamingoRecords/customer-service/customer-service.services/customer-service.services.csproj": {
+    "C:\\Users\\evukl\\OneDrive\\Skjáborð\\Vefþjónustur\\Flamingo_Records\\customer-service\\customer-service.services\\customer-service.services.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/adalsteinnleifsson/Downloads/FlamingoRecords/customer-service/customer-service.services/customer-service.services.csproj",
+        "projectUniqueName": "C:\\Users\\evukl\\OneDrive\\Skjáborð\\Vefþjónustur\\Flamingo_Records\\customer-service\\customer-service.services\\customer-service.services.csproj",
         "projectName": "customer-service.services",
-        "projectPath": "/Users/adalsteinnleifsson/Downloads/FlamingoRecords/customer-service/customer-service.services/customer-service.services.csproj",
-        "packagesPath": "/Users/adalsteinnleifsson/.nuget/packages/",
-        "outputPath": "/Users/adalsteinnleifsson/Downloads/FlamingoRecords/customer-service/customer-service.services/obj/",
+        "projectPath": "C:\\Users\\evukl\\OneDrive\\Skjáborð\\Vefþjónustur\\Flamingo_Records\\customer-service\\customer-service.services\\customer-service.services.csproj",
+        "packagesPath": "C:\\Users\\evukl\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\evukl\\OneDrive\\Skjáborð\\Vefþjónustur\\Flamingo_Records\\customer-service\\customer-service.services\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "/Users/adalsteinnleifsson/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\evukl\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.0"
@@ -156,11 +147,11 @@
         "frameworks": {
           "netstandard2.0": {
             "projectReferences": {
-              "/Users/adalsteinnleifsson/Downloads/FlamingoRecords/customer-service/customer-service.data/customer-service.data.csproj": {
-                "projectPath": "/Users/adalsteinnleifsson/Downloads/FlamingoRecords/customer-service/customer-service.data/customer-service.data.csproj"
+              "C:\\Users\\evukl\\OneDrive\\Skjáborð\\Vefþjónustur\\Flamingo_Records\\customer-service\\customer-service.data\\customer-service.data.csproj": {
+                "projectPath": "C:\\Users\\evukl\\OneDrive\\Skjáborð\\Vefþjónustur\\Flamingo_Records\\customer-service\\customer-service.data\\customer-service.data.csproj"
               },
-              "/Users/adalsteinnleifsson/Downloads/FlamingoRecords/customer-service/customer-service.models/customer-service.models.csproj": {
-                "projectPath": "/Users/adalsteinnleifsson/Downloads/FlamingoRecords/customer-service/customer-service.models/customer-service.models.csproj"
+              "C:\\Users\\evukl\\OneDrive\\Skjáborð\\Vefþjónustur\\Flamingo_Records\\customer-service\\customer-service.models\\customer-service.models.csproj": {
+                "projectPath": "C:\\Users\\evukl\\OneDrive\\Skjáborð\\Vefþjónustur\\Flamingo_Records\\customer-service\\customer-service.models\\customer-service.models.csproj"
               }
             }
           }
@@ -207,7 +198,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.402/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
         }
       }
     }
