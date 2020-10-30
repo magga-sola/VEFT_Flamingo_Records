@@ -1,10 +1,10 @@
-FROM node: latest
+FROM mrc.microsoft.com/dotnet/core/sdk:3.1
+LABEL maintainer="evan19, margreta19"
 
-LABEL maintainer="Margret Sol"
+ENV ASPNETCORE_URLS=http://+:7000
 
 COPY . /app
 WORKDIR /app
+RUN dotnet restore
 
-RUN npm install
-
-ENTRYPOINT ["npm", "run", "build"]
+ENTRYPOINT [ "dotnet", "run"]
