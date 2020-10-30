@@ -318,23 +318,19 @@
     ]
   },
   "packageFolders": {
-    "/Users/adalsteinnleifsson/.nuget/packages/": {},
-    "/usr/local/share/dotnet/sdk/NuGetFallbackFolder": {}
+    "C:\\Users\\evukl\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/adalsteinnleifsson/Downloads/FlamingoRecords/customer-service/customer-service.models/customer-service.models.csproj",
+      "projectUniqueName": "C:\\Users\\evukl\\OneDrive\\Skjáborð\\Vefþjónustur\\Flamingo_Records\\customer-service\\customer-service.models\\customer-service.models.csproj",
       "projectName": "customer-service.models",
-      "projectPath": "/Users/adalsteinnleifsson/Downloads/FlamingoRecords/customer-service/customer-service.models/customer-service.models.csproj",
-      "packagesPath": "/Users/adalsteinnleifsson/.nuget/packages/",
-      "outputPath": "/Users/adalsteinnleifsson/Downloads/FlamingoRecords/customer-service/customer-service.models/obj/",
+      "projectPath": "C:\\Users\\evukl\\OneDrive\\Skjáborð\\Vefþjónustur\\Flamingo_Records\\customer-service\\customer-service.models\\customer-service.models.csproj",
+      "packagesPath": "C:\\Users\\evukl\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\evukl\\OneDrive\\Skjáborð\\Vefþjónustur\\Flamingo_Records\\customer-service\\customer-service.models\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "/Users/adalsteinnleifsson/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\evukl\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netstandard2.0"
@@ -381,7 +377,7 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.402/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
       }
     }
   }

@@ -7,3 +7,12 @@
 /Users/adalsteinnleifsson/Downloads/FlamingoRecords/customer-service/customer-service.models/bin/Debug/netstandard2.0/customer-service.models.pdb
 /Users/adalsteinnleifsson/Downloads/FlamingoRecords/customer-service/customer-service.models/obj/Debug/netstandard2.0/customer-service.models.dll
 /Users/adalsteinnleifsson/Downloads/FlamingoRecords/customer-service/customer-service.models/obj/Debug/netstandard2.0/customer-service.models.pdb
+C:\Users\evukl\OneDrive\Skjáborð\Vefþjónustur\Flamingo_Records\customer-service\customer-service.models\bin\Debug\netstandard2.0\customer-service.models.deps.json
+C:\Users\evukl\OneDrive\Skjáborð\Vefþjónustur\Flamingo_Records\customer-service\customer-service.models\bin\Debug\netstandard2.0\customer-service.models.dll
+C:\Users\evukl\OneDrive\Skjáborð\Vefþjónustur\Flamingo_Records\customer-service\customer-service.models\bin\Debug\netstandard2.0\customer-service.models.pdb
+C:\Users\evukl\OneDrive\Skjáborð\Vefþjónustur\Flamingo_Records\customer-service\customer-service.models\obj\Debug\netstandard2.0\customer-service.models.csprojAssemblyReference.cache
+C:\Users\evukl\OneDrive\Skjáborð\Vefþjónustur\Flamingo_Records\customer-service\customer-service.models\obj\Debug\netstandard2.0\customer-service.models.AssemblyInfoInputs.cache
+C:\Users\evukl\OneDrive\Skjáborð\Vefþjónustur\Flamingo_Records\customer-service\customer-service.models\obj\Debug\netstandard2.0\customer-service.models.AssemblyInfo.cs
+C:\Users\evukl\OneDrive\Skjáborð\Vefþjónustur\Flamingo_Records\customer-service\customer-service.models\obj\Debug\netstandard2.0\customer-service.models.csproj.CoreCompileInputs.cache
+C:\Users\evukl\OneDrive\Skjáborð\Vefþjónustur\Flamingo_Records\customer-service\customer-service.models\obj\Debug\netstandard2.0\customer-service.models.dll
+C:\Users\evukl\OneDrive\Skjáborð\Vefþjónustur\Flamingo_Records\customer-service\customer-service.models\obj\Debug\netstandard2.0\customer-service.models.pdb
